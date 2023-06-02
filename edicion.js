@@ -1,5 +1,7 @@
 function editar(event) {
     console.log("editar");
+    //Hecho por Karen-2204129
+
     event.preventDefault();
     if (document.getElementById("gusto").value === '') return;
 

@@ -1,6 +1,6 @@
 $(document).ready(function () {
     const urlParams = new URLSearchParams(window.location.search);
-
+//Hecho por Karen-2204129
     const email = document.createElement("p");
     const phone = document.createElement("p");
     const gustos = document.createElement("p");
